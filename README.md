@@ -5,7 +5,7 @@
 还有一些未涉及的方面，欢迎提出。
 
 * github：[https://github.com/ittalks](https://github.com/ittalks)
-* gitbook:[https://www.gitbook.com/@ittalks](mailto:https://www.gitbook.com/@ittalks)
+* gitbook：[https://www.gitbook.com/@ittalks](mailto:https://www.gitbook.com/@ittalks)
 
 
 
